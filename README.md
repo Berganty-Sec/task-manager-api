@@ -88,4 +88,4 @@ README.md
 
 ## Author
 
-João Pedro Bergamim
+João Pedro Bergamim (Berganty-Sec)
